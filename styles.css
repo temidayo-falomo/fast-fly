@@ -75,6 +75,10 @@ button:hover {
   border: 2px var(--foreground) solid;
 }
 
+.toggle-darkmode{
+  cursor: pointer;
+}
+
 .logo {
   width: 150px;
 }
